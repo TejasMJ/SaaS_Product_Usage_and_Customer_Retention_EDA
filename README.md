@@ -71,7 +71,7 @@ SaaS_Customer_Retention_EDA/
   - **Data Manipulation:** Pandas, NumPy
   - **Visualization:** Matplotlib, Seaborn, Plotly
 - **Environment:** Jupyter Notebook
-- **Data Source:** [Kaggle – Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
+- **Data Source:** [Kaggle](https://www.kaggle.com/datasets/miadul/customer-churn-prediction-business-dataset)
 
 ---
 
@@ -101,7 +101,7 @@ E-commerce platforms generate rich behavioral and feedback-driven data, but tran
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/TejasMJ/Google-Play-Store-App-EDA-.git
+git clone https://github.com/TejasMJ/SaaS_Product_Usage_and_Customer_Retention_EDA.git
 cd Google-Play-Store-App-EDA-
 ```
 
