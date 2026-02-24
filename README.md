@@ -1,8 +1,8 @@
 # SaaS Product Usage & Customer Retention EDA 📊
-
+---
 A comprehensive Exploratory Data Analysis (EDA) of a SaaS customer dataset focused on understanding product usage behavior, customer engagement, revenue patterns, and churn dynamics.
 The project leverages Python-based analytics and visualization to uncover actionable insights that support retention, growth, and customer lifecycle optimization.
----
+
 
 ## 🌟 Features
 
